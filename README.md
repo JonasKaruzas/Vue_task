@@ -7,6 +7,9 @@ git clone https://github.com/JonasKaruzas/BitDegree_task.git
 # Navigate to the project directory
 cd BitDegree_task
 
+# Install client dependencies
+npm install
+
 # Run task.
 npm run dev
 ```
